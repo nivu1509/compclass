@@ -1,4 +1,2 @@
 # compclass
-hello hello
-this is neembu
-this class is something
+this s biveditha nd this is a test file
